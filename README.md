@@ -1,3 +1,5 @@
+I figured out how to use JavaScript to create HTML elements and get them to show up on a website. I also learned how different functions work and why choosing clear, descriptive names for variables is crucial. I ran into trouble with making sure my elements displayed correctly. Poor naming led to confusion about which elements needed to be added. Going forward: I plan to improve my naming skills and explore various techniques that could be useful.
+
 # [JSL06] Submission: CodeCuisine Menu Display System Challenge
 
 You will:
